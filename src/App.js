@@ -1,7 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Register from "./Components/Login";
-import SamplePage from "./Components/samplePage";
 import { TodoWrapper } from "./Components/TodoWrapper";
 import {
   faCheck,

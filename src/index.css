@@ -14,7 +14,7 @@ html {
 
 body {
     min-height: 100vh;
-    background-color: dodgerblue;
+    background-color: pink;
 }
 
 .App {
@@ -101,7 +101,17 @@ button {
     color: red;
     margin-left: 0.25rem;
 }
-
+.smallButton{
+    padding: 0.3rem;
+    font-size: 15px;
+    width:60%;
+  border-radius: 0.5rem;
+    align-self: center;
+}
+.signIn{
+    width:70%;
+    align-self: center;
+}
 .errmsg {
     background-color: lightpink;
     color: firebrick;
